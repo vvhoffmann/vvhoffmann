@@ -3,7 +3,7 @@
 - 📫 How to reach me: **vv.hoffmann00@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/wiktoria-hoffmann/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/wiktoria-hoffmann-1894541a4/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/wiktoria-hoffmann/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/wiktoria-hoffmann-1894541a4/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vv_hoffmann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vv_hoffmann" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
